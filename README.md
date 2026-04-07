@@ -6,6 +6,7 @@
 
 This repository is for showing how Git and GitHub work
 Adding some text for the rebasing example.
+This text should appear before the stash content.
 
 ## Purpose
 
